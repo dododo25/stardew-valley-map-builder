@@ -1,0 +1,7 @@
+div.map-container:hover {
+    cursor: grab;
+}
+
+div.map-container.active {
+    cursor: grabbing;
+}
